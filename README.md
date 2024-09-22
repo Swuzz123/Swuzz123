@@ -9,6 +9,7 @@ Whether it’s optimizing algorithms, creating insightful data visualizations, o
 How to reach me:
 - **FaceBook**: https://www.facebook.com/minhtringuyen2110
 - **Github**: https://github.com/Swuzz123
+- **Gmail**: ngminhtri21102004@gmail.com
 
 You can talk to me about:
 
