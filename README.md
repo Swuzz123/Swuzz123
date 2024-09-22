@@ -13,16 +13,11 @@ How to reach me:
 
 You can talk to me about:
 
-- **Python** 🐍
-- **Java** ☕
-- **TensorFlow** 🔥
-- **Scikit-learn** 📊
-- **Pandas** 🐼
-- **NumPy** ➗
-- **Matplotlib** 📈
-- **SQL** 🗄️
-- **Jupyter Notebooks** 📒
-- **VS Code** 💻
-
+ **Python** 🐍          **NumPy** ➗
+ **Java** ☕            **Matplotlib** 📈
+ **TensorFlow** 🔥      **SQL** 🗄️
+ **Scikit-learn** 📊    **Jupyter Notebooks** 📒
+ **Pandas** 🐼           **VS Code** 💻
+ 
 Feel free to connect with me to discuss ML projects or any interesting topics in AI!
 
